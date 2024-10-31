@@ -1,0 +1,5555 @@
+[
+    {
+        "id": "8fc8c1e9dc0b8c20",
+        "type": "tab",
+        "label": "Cage 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "15cb1fe7a3971876",
+        "type": "tab",
+        "label": "Cage 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2b7da7338a6aec73",
+        "type": "tab",
+        "label": "Cage 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "cb190de4053ecd58",
+        "type": "tab",
+        "label": "Cage 4",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "95efcb1d39b59b08",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM15",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "7efb05ec3cb8ee4a",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM15",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "3c19f86473c843cb",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM5",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "46c48111cf9f5fde",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM6",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "9deba7667f5e3f0e",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM16",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "3e9e928f83a167a6",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM7",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "81c3366b47957850",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM8",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "ba5733a922b0023b",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM16",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "83e2f404cb4c9a50",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM16",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "4a3850f53cecc097",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM17",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "14b7ad109586c080",
+        "type": "serial-port",
+        "name": "",
+        "serialport": "COM18",
+        "serialbaud": "115200",
+        "databits": "8",
+        "parity": "none",
+        "stopbits": "1",
+        "waitfor": "",
+        "dtr": "none",
+        "rts": "none",
+        "cts": "none",
+        "dsr": "none",
+        "newline": "\\n",
+        "bin": "false",
+        "out": "char",
+        "addchar": "",
+        "responsetimeout": "10000"
+    },
+    {
+        "id": "02e2b39272fde274",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"enabled\":false}",
+        "payloadType": "json",
+        "x": 740,
+        "y": 100,
+        "wires": [
+            [
+                "852d512f4d3bcd10"
+            ]
+        ]
+    },
+    {
+        "id": "059807f8e480d9c4",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 510,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "11167a3803ac154e",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Train Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "",
+        "topic": "",
+        "payload": "\"PLAY0\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 120,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "e440cffb78cfbcd9",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED OFF\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 78,
+        "wires": [
+            [
+                "059807f8e480d9c4"
+            ]
+        ]
+    },
+    {
+        "id": "55176669a18dacbf",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED ON\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 40,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "852d512f4d3bcd10",
+        "type": "serial control",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 890,
+        "y": 100,
+        "wires": [
+            [
+                "8bb173f3fc39e2b4"
+            ]
+        ]
+    },
+    {
+        "id": "8bb173f3fc39e2b4",
+        "type": "debug",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "68b4b7e149d5825c",
+        "type": "debug",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "debug 13",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "4d83a3615ea30f66",
+        "type": "serial in",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 710,
+        "y": 160,
+        "wires": [
+            [
+                "9d612bd2a57a83b9"
+            ]
+        ]
+    },
+    {
+        "id": "9d612bd2a57a83b9",
+        "type": "debug",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 900,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "043de8fe5d55af7b",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Siren Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY1\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 160,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "6cac4a4ba4e17507",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Jack Hammer Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY2\\n\"",
+        "payloadType": "json",
+        "x": 240,
+        "y": 200,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "23ecb88d4f792a36",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLUP\\n\"",
+        "payloadType": "json",
+        "x": 200,
+        "y": 240,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "65a0c908f730faff",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLDOWN\\n\"",
+        "payloadType": "json",
+        "x": 220,
+        "y": 280,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "90d2c72d3d7484e9",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTOFF\\n\"",
+        "payloadType": "json",
+        "x": 220,
+        "y": 360,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "9664b50fa3ad6dc4",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTON\\n\"",
+        "payloadType": "json",
+        "x": 209,
+        "y": 322,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "023fd4964be20f8c",
+        "type": "inject",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTLR\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 400,
+        "wires": [
+            [
+                "059807f8e480d9c4",
+                "68b4b7e149d5825c"
+            ]
+        ]
+    },
+    {
+        "id": "3ba401fef3d43226",
+        "type": "cronplus",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Train Schedule Cage 1",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 13 1 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 33 3 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule3",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 49 5 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule4",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 41 6 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule5",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 45 7 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule6",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 11 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule7",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 57 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule8",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 21 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule9",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 53 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule10",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 32 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule11",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 29 11 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule12",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 26 12 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule13",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 4 13 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule14",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 51 14 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule15",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 44 15 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule16",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 47 16 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule17",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 19 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule18",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 58 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule19",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 01 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule20",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 26 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule21",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 59 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule22",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 35 20 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule23",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 22 21 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule24",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 27 22 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule25",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 34 23 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 180,
+        "y": 480,
+        "wires": [
+            [
+                "1cc1b0602cb949b1",
+                "6c2e7cad6687405a"
+            ]
+        ]
+    },
+    {
+        "id": "706ccc03aa4aa86e",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 460,
+        "wires": [
+            [
+                "359dde2df9aff625",
+                "6c2e7cad6687405a"
+            ]
+        ]
+    },
+    {
+        "id": "1cc1b0602cb949b1",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 460,
+        "wires": [
+            [
+                "6c2e7cad6687405a",
+                "706ccc03aa4aa86e"
+            ]
+        ]
+    },
+    {
+        "id": "e88f3289225b1cb2",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 460,
+        "wires": [
+            [
+                "6c2e7cad6687405a",
+                "f1c10b0719b23458"
+            ]
+        ]
+    },
+    {
+        "id": "359dde2df9aff625",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "42",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 760,
+        "y": 460,
+        "wires": [
+            [
+                "87669c8c0c7b05b3"
+            ]
+        ]
+    },
+    {
+        "id": "5d84dba486ec92eb",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1250,
+        "y": 460,
+        "wires": [
+            [
+                "6c2e7cad6687405a"
+            ]
+        ]
+    },
+    {
+        "id": "6c2e7cad6687405a",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 590,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "87669c8c0c7b05b3",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Train Sound ",
+        "func": "msg. payload = \"PLAY0\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 420,
+        "wires": [
+            [
+                "29f2840d4b7fa4e3",
+                "e88f3289225b1cb2"
+            ]
+        ]
+    },
+    {
+        "id": "29f2840d4b7fa4e3",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 1030,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "f1c10b0719b23458",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "21",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1100,
+        "y": 460,
+        "wires": [
+            [
+                "5d84dba486ec92eb"
+            ]
+        ]
+    },
+    {
+        "id": "5111852c8a97edad",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 1290,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "0b7dc26e01052d0d",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 260,
+        "wires": [
+            [
+                "5111852c8a97edad",
+                "43ab35cf27fa4798"
+            ]
+        ]
+    },
+    {
+        "id": "43ab35cf27fa4798",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 260,
+        "wires": [
+            [
+                "a1a1ce1a17fa3cb1",
+                "5111852c8a97edad"
+            ]
+        ]
+    },
+    {
+        "id": "a1a1ce1a17fa3cb1",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1380,
+        "y": 260,
+        "wires": [
+            [
+                "82549c319f1a18ea"
+            ]
+        ]
+    },
+    {
+        "id": "82549c319f1a18ea",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1550,
+        "y": 260,
+        "wires": [
+            [
+                "5111852c8a97edad",
+                "9e309ffb705a611f"
+            ]
+        ]
+    },
+    {
+        "id": "9e309ffb705a611f",
+        "type": "counter-loop",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "22",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 1070,
+        "y": 340,
+        "wires": [
+            [
+                "5111852c8a97edad"
+            ],
+            [
+                "0b7dc26e01052d0d"
+            ]
+        ]
+    },
+    {
+        "id": "96ffea47ed272b12",
+        "type": "cronplus",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Siren Schedule Cage 1",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 30 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 750,
+        "y": 260,
+        "wires": [
+            [
+                "9e309ffb705a611f"
+            ]
+        ]
+    },
+    {
+        "id": "1524d469081f2631",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 150,
+        "y": 640,
+        "wires": [
+            [
+                "efb1bf7481579f8b"
+            ]
+        ]
+    },
+    {
+        "id": "efb1bf7481579f8b",
+        "type": "timegate",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Jack Hammer Schedule 1",
+        "targetDateTime": "targetDateTime",
+        "targetDateTimeType": "msg",
+        "lat": 0,
+        "lon": 0,
+        "time_1": "15:14-15:14",
+        "day_1": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_1": "",
+        "month_1": "",
+        "time_2": "3:34-03:34",
+        "day_2": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_2": "",
+        "month_2": "",
+        "time_3": "",
+        "day_3": "",
+        "week_3": "",
+        "month_3": "",
+        "time_4": "",
+        "day_4": "",
+        "week_4": "",
+        "month_4": "",
+        "time_5": "",
+        "day_5": "",
+        "week_5": "",
+        "month_5": "",
+        "x": 350,
+        "y": 640,
+        "wires": [
+            [
+                "93c4169ca4d2dcef"
+            ],
+            [
+                "8aa9603084918d3c"
+            ]
+        ]
+    },
+    {
+        "id": "93c4169ca4d2dcef",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 580,
+        "wires": [
+            [
+                "32855a13916e60df",
+                "94ebb0693eeb8443"
+            ]
+        ]
+    },
+    {
+        "id": "0f0a91619cd47121",
+        "type": "counter-loop",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "60",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 670,
+        "y": 660,
+        "wires": [
+            [
+                "32855a13916e60df"
+            ],
+            [
+                "93c4169ca4d2dcef"
+            ]
+        ]
+    },
+    {
+        "id": "32855a13916e60df",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 870,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "94ebb0693eeb8443",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 860,
+        "y": 580,
+        "wires": [
+            [
+                "0f0a91619cd47121"
+            ]
+        ]
+    },
+    {
+        "id": "8aa9603084918d3c",
+        "type": "function",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 740,
+        "wires": [
+            [
+                "0229bfb16730b8c4",
+                "755b191fcf0715ac"
+            ]
+        ]
+    },
+    {
+        "id": "de1a50870529d784",
+        "type": "counter-loop",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "102",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 690,
+        "y": 820,
+        "wires": [
+            [
+                "0229bfb16730b8c4"
+            ],
+            [
+                "8aa9603084918d3c"
+            ]
+        ]
+    },
+    {
+        "id": "0229bfb16730b8c4",
+        "type": "serial out",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "serial": "3c19f86473c843cb",
+        "x": 890,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "755b191fcf0715ac",
+        "type": "delay",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 880,
+        "y": 740,
+        "wires": [
+            [
+                "de1a50870529d784"
+            ]
+        ]
+    },
+    {
+        "id": "d34899e4155c8dc5",
+        "type": "cronplus",
+        "z": "8fc8c1e9dc0b8c20",
+        "name": "Jack Hammer Schedule Cage 1",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 00 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "topic2",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 34 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 250,
+        "y": 560,
+        "wires": [
+            [
+                "1524d469081f2631"
+            ]
+        ]
+    },
+    {
+        "id": "96c26e646ba45845",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"enabled\":false}",
+        "payloadType": "json",
+        "x": 720,
+        "y": 100,
+        "wires": [
+            [
+                "e56337025a7413d2"
+            ]
+        ]
+    },
+    {
+        "id": "5bf0f169c05f420c",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 470,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "5971bf79e2dda63e",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "Train Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY0\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 120,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "9cbfa19f37a41258",
+        "type": "cronplus",
+        "z": "15cb1fe7a3971876",
+        "name": "Train Schedule Cage 2",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 53 1 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 53 3 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule3",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 05 6 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule4",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 14 7 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule5",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 56 7 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule6",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 23 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule7",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 01 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule8",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 37 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule9",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 07 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule10",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 43 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule11",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 37 11 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule12",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 33 12 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule13",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 16 14 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule14",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 59 14 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule15",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 51 15 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule16",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 1 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule17",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 24 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule18",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 05 18 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule19",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 08 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule20",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 31 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule21",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 3 20 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule22",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 51 20 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule23",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 31 21 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule24",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 51 22 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule25",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 46 23 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 220,
+        "y": 480,
+        "wires": [
+            [
+                "cac416e8de5db067",
+                "efe76cc52328be1b"
+            ]
+        ]
+    },
+    {
+        "id": "af54a585b17f64ca",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED OFF\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 78,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "ac268ef2df1dd8b8",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED ON\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 40,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "e56337025a7413d2",
+        "type": "serial control",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 870,
+        "y": 100,
+        "wires": [
+            [
+                "5c9e3e6b2813b4bf"
+            ]
+        ]
+    },
+    {
+        "id": "5c9e3e6b2813b4bf",
+        "type": "debug",
+        "z": "15cb1fe7a3971876",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "62be0b10ee1c615d",
+        "type": "debug",
+        "z": "15cb1fe7a3971876",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "facd9e3fe56aea55",
+        "type": "serial in",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 690,
+        "y": 160,
+        "wires": [
+            [
+                "290748cdac715827"
+            ]
+        ]
+    },
+    {
+        "id": "290748cdac715827",
+        "type": "debug",
+        "z": "15cb1fe7a3971876",
+        "name": "debug 18",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "c8a82b78c533dba1",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "Siren Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY1\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 160,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "678d90b354144425",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "Jack Hammer Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY2\\n\"",
+        "payloadType": "json",
+        "x": 240,
+        "y": 200,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "4d3066bf9d9abad1",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLUP\\n\"",
+        "payloadType": "json",
+        "x": 201,
+        "y": 238,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "2a56189629538938",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLDOWN\\n\"",
+        "payloadType": "json",
+        "x": 221,
+        "y": 278,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "ad71b912de365bb6",
+        "type": "cronplus",
+        "z": "15cb1fe7a3971876",
+        "name": "Siren Schedule Cage 2",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 32 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 770,
+        "y": 300,
+        "wires": [
+            [
+                "a2ee701a1a4a1a67"
+            ]
+        ]
+    },
+    {
+        "id": "4b318ab07b755299",
+        "type": "cronplus",
+        "z": "15cb1fe7a3971876",
+        "name": "Jack Hammer Schedule Cage 2",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 00 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "topic2",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 54 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 250,
+        "y": 620,
+        "wires": [
+            [
+                "c04423e952e43d0a"
+            ]
+        ]
+    },
+    {
+        "id": "433fd3eb80f9ec50",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTOFF\\n\"",
+        "payloadType": "json",
+        "x": 221,
+        "y": 358,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "c15f66f4f5b5c5f2",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTON\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 320,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "8610bf9216016e1f",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 460,
+        "wires": [
+            [
+                "0141a4d9d16d227a",
+                "efe76cc52328be1b"
+            ]
+        ]
+    },
+    {
+        "id": "cac416e8de5db067",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 460,
+        "wires": [
+            [
+                "8610bf9216016e1f",
+                "efe76cc52328be1b"
+            ]
+        ]
+    },
+    {
+        "id": "e62bc42f3829dc72",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 460,
+        "wires": [
+            [
+                "efe76cc52328be1b",
+                "f52b1fdde92d9a75"
+            ]
+        ]
+    },
+    {
+        "id": "0141a4d9d16d227a",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "42",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 740,
+        "y": 460,
+        "wires": [
+            [
+                "1890d1a510a20447"
+            ]
+        ]
+    },
+    {
+        "id": "01687615018d789c",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1250,
+        "y": 460,
+        "wires": [
+            [
+                "efe76cc52328be1b"
+            ]
+        ]
+    },
+    {
+        "id": "efe76cc52328be1b",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 790,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "3cf0bf475535da32",
+        "type": "inject",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTLR\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 400,
+        "wires": [
+            [
+                "5bf0f169c05f420c",
+                "62be0b10ee1c615d"
+            ]
+        ]
+    },
+    {
+        "id": "1890d1a510a20447",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "Train Sound ",
+        "func": "msg. payload = \"PLAY0\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 420,
+        "wires": [
+            [
+                "c360fe320f34d5d7",
+                "e62bc42f3829dc72"
+            ]
+        ]
+    },
+    {
+        "id": "c360fe320f34d5d7",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 1010,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "97b9c0b58306d5de",
+        "type": "timegate",
+        "z": "15cb1fe7a3971876",
+        "name": "Jack Hammer Schedule 2",
+        "targetDateTime": "targetDateTime",
+        "targetDateTimeType": "msg",
+        "lat": 0,
+        "lon": 0,
+        "time_1": "3:00-3:00",
+        "day_1": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_1": "",
+        "month_1": "",
+        "time_2": "3:54-03:54",
+        "day_2": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_2": "",
+        "month_2": "",
+        "time_3": "",
+        "day_3": "",
+        "week_3": "",
+        "month_3": "",
+        "time_4": "",
+        "day_4": "",
+        "week_4": "",
+        "month_4": "",
+        "time_5": "",
+        "day_5": "",
+        "week_5": "",
+        "month_5": "",
+        "x": 310,
+        "y": 700,
+        "wires": [
+            [
+                "07bccd47cef94727"
+            ],
+            [
+                "0e894137d6acaad6"
+            ]
+        ]
+    },
+    {
+        "id": "c04423e952e43d0a",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 110,
+        "y": 700,
+        "wires": [
+            [
+                "97b9c0b58306d5de"
+            ]
+        ]
+    },
+    {
+        "id": "f52b1fdde92d9a75",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "21",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1080,
+        "y": 460,
+        "wires": [
+            [
+                "01687615018d789c"
+            ]
+        ]
+    },
+    {
+        "id": "3575aeac4c04e20f",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 1330,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "aa7d2b9e5547cc9d",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1060,
+        "y": 260,
+        "wires": [
+            [
+                "3575aeac4c04e20f",
+                "0839b6ee73f223d2"
+            ]
+        ]
+    },
+    {
+        "id": "0839b6ee73f223d2",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 260,
+        "wires": [
+            [
+                "a9e4663bf2211c95",
+                "3575aeac4c04e20f"
+            ]
+        ]
+    },
+    {
+        "id": "a9e4663bf2211c95",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1420,
+        "y": 260,
+        "wires": [
+            [
+                "6b254a73c409c828"
+            ]
+        ]
+    },
+    {
+        "id": "6b254a73c409c828",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1590,
+        "y": 260,
+        "wires": [
+            [
+                "3575aeac4c04e20f",
+                "a2ee701a1a4a1a67"
+            ]
+        ]
+    },
+    {
+        "id": "a2ee701a1a4a1a67",
+        "type": "counter-loop",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "22",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 1110,
+        "y": 340,
+        "wires": [
+            [
+                "3575aeac4c04e20f"
+            ],
+            [
+                "aa7d2b9e5547cc9d"
+            ]
+        ]
+    },
+    {
+        "id": "07bccd47cef94727",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 640,
+        "wires": [
+            [
+                "48a92bd73dbe23a4",
+                "3d9d1767b5eefc53"
+            ]
+        ]
+    },
+    {
+        "id": "6ff5ba234a906e14",
+        "type": "counter-loop",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "60",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 670,
+        "y": 720,
+        "wires": [
+            [
+                "48a92bd73dbe23a4"
+            ],
+            [
+                "07bccd47cef94727"
+            ]
+        ]
+    },
+    {
+        "id": "48a92bd73dbe23a4",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 870,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "3d9d1767b5eefc53",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 860,
+        "y": 640,
+        "wires": [
+            [
+                "6ff5ba234a906e14"
+            ]
+        ]
+    },
+    {
+        "id": "0e894137d6acaad6",
+        "type": "function",
+        "z": "15cb1fe7a3971876",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 800,
+        "wires": [
+            [
+                "9a543682f5942508",
+                "ead896857d372274"
+            ]
+        ]
+    },
+    {
+        "id": "b81f3cd675eff17b",
+        "type": "counter-loop",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "102",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 690,
+        "y": 880,
+        "wires": [
+            [
+                "9a543682f5942508"
+            ],
+            [
+                "0e894137d6acaad6"
+            ]
+        ]
+    },
+    {
+        "id": "9a543682f5942508",
+        "type": "serial out",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "serial": "46c48111cf9f5fde",
+        "x": 890,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "ead896857d372274",
+        "type": "delay",
+        "z": "15cb1fe7a3971876",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 880,
+        "y": 800,
+        "wires": [
+            [
+                "b81f3cd675eff17b"
+            ]
+        ]
+    },
+    {
+        "id": "07fc4c5e649b0199",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"enabled\":false}",
+        "payloadType": "json",
+        "x": 720,
+        "y": 80,
+        "wires": [
+            [
+                "3d4e7a98f82657cf"
+            ]
+        ]
+    },
+    {
+        "id": "e10b1224e7f5d3c1",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 490,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "b1b25b343548d663",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "Train Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY0\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 120,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "3c0421cc71310ce3",
+        "type": "cronplus",
+        "z": "2b7da7338a6aec73",
+        "name": "Train Schedule Cage 3",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 42 0 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 32 2 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule3",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 33 4 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule4",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 20 6 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule5",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 20 7 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule6",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 1 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule7",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 48 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule8",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 06 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule9",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 42 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule10",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 12 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule11",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 58 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule12",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 44 11 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule13",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 44 12 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule14",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 32 14 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule15",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 14 15 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule16",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 0 16 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule17",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 5 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule18",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 37 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule19",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 21 18 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule20",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 16 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule21",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 40 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule22",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 11 20 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule23",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 7 21 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule24",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 47 21 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule25",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 2 23 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 240,
+        "y": 460,
+        "wires": [
+            [
+                "6a2b201e209f337f",
+                "6415cb8de519183e"
+            ]
+        ]
+    },
+    {
+        "id": "c9798e62db9c35b2",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED OFF\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 78,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "a9c1bb797ee26630",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED ON\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 40,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "3d4e7a98f82657cf",
+        "type": "serial control",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 890,
+        "y": 80,
+        "wires": [
+            [
+                "448d87ed15e5d0cd"
+            ]
+        ]
+    },
+    {
+        "id": "448d87ed15e5d0cd",
+        "type": "debug",
+        "z": "2b7da7338a6aec73",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1060,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "221eacd15a3bb333",
+        "type": "debug",
+        "z": "2b7da7338a6aec73",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 500,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "c3911e94460e3238",
+        "type": "serial in",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 690,
+        "y": 140,
+        "wires": [
+            [
+                "9b2cf278a8c33892"
+            ]
+        ]
+    },
+    {
+        "id": "9b2cf278a8c33892",
+        "type": "debug",
+        "z": "2b7da7338a6aec73",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "c24864f271d18f10",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "Siren Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY1\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 160,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "9c2ddf5ed8110d28",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "Jack Hammer Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY2\\n\"",
+        "payloadType": "json",
+        "x": 240,
+        "y": 200,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "f8032d9a2ecf032b",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLUP\\n\"",
+        "payloadType": "json",
+        "x": 200,
+        "y": 240,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "a05729c28aec7030",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLDOWN\\n\"",
+        "payloadType": "json",
+        "x": 220,
+        "y": 280,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "573af5a0d00044eb",
+        "type": "cronplus",
+        "z": "2b7da7338a6aec73",
+        "name": "Siren Schedule Cage 3",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 30 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "topic2",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 30 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 250,
+        "y": 660,
+        "wires": [
+            [
+                "6636707e91006638"
+            ]
+        ]
+    },
+    {
+        "id": "63e8914ca782658e",
+        "type": "cronplus",
+        "z": "2b7da7338a6aec73",
+        "name": "Jack Hammer Schedule Cage 3",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 00 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 770,
+        "y": 300,
+        "wires": [
+            [
+                "04cf368bf2f18d8e"
+            ]
+        ]
+    },
+    {
+        "id": "f515b3e5faf3f554",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTOFF\\n\"",
+        "payloadType": "json",
+        "x": 220,
+        "y": 360,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "49a6ff387e618664",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTON\\n\"",
+        "payloadType": "json",
+        "x": 209,
+        "y": 322,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "f921f3f5a0af8a31",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 460,
+        "wires": [
+            [
+                "891d48820cc96ee5",
+                "6415cb8de519183e"
+            ]
+        ]
+    },
+    {
+        "id": "6a2b201e209f337f",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 460,
+        "wires": [
+            [
+                "f921f3f5a0af8a31",
+                "6415cb8de519183e"
+            ]
+        ]
+    },
+    {
+        "id": "d54ad46ef66bbeac",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 460,
+        "wires": [
+            [
+                "6415cb8de519183e",
+                "163e596145b86acd"
+            ]
+        ]
+    },
+    {
+        "id": "891d48820cc96ee5",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "42",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 740,
+        "y": 460,
+        "wires": [
+            [
+                "741d8c3bfebd69be"
+            ]
+        ]
+    },
+    {
+        "id": "7d32bd6e8295c151",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 460,
+        "wires": [
+            [
+                "6415cb8de519183e"
+            ]
+        ]
+    },
+    {
+        "id": "6415cb8de519183e",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 610,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "7a25c8aa47e333b6",
+        "type": "inject",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTLR\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 400,
+        "wires": [
+            [
+                "e10b1224e7f5d3c1",
+                "221eacd15a3bb333"
+            ]
+        ]
+    },
+    {
+        "id": "741d8c3bfebd69be",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "Train Sound ",
+        "func": "msg. payload = \"PLAY0\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 420,
+        "wires": [
+            [
+                "0df589d39400ccd0",
+                "d54ad46ef66bbeac"
+            ]
+        ]
+    },
+    {
+        "id": "0df589d39400ccd0",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 1010,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "c3e66eaff5491cfd",
+        "type": "timegate",
+        "z": "2b7da7338a6aec73",
+        "name": "Siren Schedule 3",
+        "targetDateTime": "targetDateTime",
+        "targetDateTimeType": "msg",
+        "lat": 0,
+        "lon": 0,
+        "time_1": "19:30-19:30",
+        "day_1": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_1": "",
+        "month_1": "",
+        "time_2": "19:41-19:41",
+        "day_2": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_2": "",
+        "month_2": "",
+        "time_3": "",
+        "day_3": "",
+        "week_3": "",
+        "month_3": "",
+        "time_4": "",
+        "day_4": "",
+        "week_4": "",
+        "month_4": "",
+        "time_5": "",
+        "day_5": "",
+        "week_5": "",
+        "month_5": "",
+        "x": 330,
+        "y": 740,
+        "wires": [
+            [
+                "f5247e19dc9b8743"
+            ],
+            [
+                "735f1861ef179c51"
+            ]
+        ]
+    },
+    {
+        "id": "6636707e91006638",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 150,
+        "y": 740,
+        "wires": [
+            [
+                "c3e66eaff5491cfd"
+            ]
+        ]
+    },
+    {
+        "id": "163e596145b86acd",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "21",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1100,
+        "y": 460,
+        "wires": [
+            [
+                "7d32bd6e8295c151"
+            ]
+        ]
+    },
+    {
+        "id": "b134ab7a3fe6ba1c",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 830,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "0dad211d77b21c39",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 600,
+        "wires": [
+            [
+                "b134ab7a3fe6ba1c",
+                "2f4fabcbfceaf78b"
+            ]
+        ]
+    },
+    {
+        "id": "2f4fabcbfceaf78b",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 600,
+        "wires": [
+            [
+                "ff335a90cd2e5a9e",
+                "b134ab7a3fe6ba1c"
+            ]
+        ]
+    },
+    {
+        "id": "ff335a90cd2e5a9e",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 600,
+        "wires": [
+            [
+                "d39c9f700c10df24"
+            ]
+        ]
+    },
+    {
+        "id": "d39c9f700c10df24",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 600,
+        "wires": [
+            [
+                "b134ab7a3fe6ba1c",
+                "f5247e19dc9b8743"
+            ]
+        ]
+    },
+    {
+        "id": "f5247e19dc9b8743",
+        "type": "counter-loop",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "8",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 600,
+        "y": 680,
+        "wires": [
+            [
+                "b134ab7a3fe6ba1c"
+            ],
+            [
+                "0dad211d77b21c39"
+            ]
+        ]
+    },
+    {
+        "id": "5ea5c3387ce58db9",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 890,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "f066d1e29934e259",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 780,
+        "wires": [
+            [
+                "5ea5c3387ce58db9",
+                "bf3e7ee9e138ff66"
+            ]
+        ]
+    },
+    {
+        "id": "bf3e7ee9e138ff66",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 780,
+        "wires": [
+            [
+                "3c86b9129dcc966c",
+                "5ea5c3387ce58db9"
+            ]
+        ]
+    },
+    {
+        "id": "3c86b9129dcc966c",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 980,
+        "y": 780,
+        "wires": [
+            [
+                "f1e0a9287835fe3e"
+            ]
+        ]
+    },
+    {
+        "id": "f1e0a9287835fe3e",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 780,
+        "wires": [
+            [
+                "5ea5c3387ce58db9",
+                "735f1861ef179c51"
+            ]
+        ]
+    },
+    {
+        "id": "735f1861ef179c51",
+        "type": "counter-loop",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "15",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 670,
+        "y": 860,
+        "wires": [
+            [
+                "5ea5c3387ce58db9"
+            ],
+            [
+                "f066d1e29934e259"
+            ]
+        ]
+    },
+    {
+        "id": "04cf368bf2f18d8e",
+        "type": "function",
+        "z": "2b7da7338a6aec73",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1080,
+        "y": 240,
+        "wires": [
+            [
+                "51dee404a19a2e4e",
+                "8615930e6e2f504a"
+            ]
+        ]
+    },
+    {
+        "id": "58f9c8a49470d720",
+        "type": "counter-loop",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "60",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 1110,
+        "y": 320,
+        "wires": [
+            [
+                "51dee404a19a2e4e"
+            ],
+            [
+                "04cf368bf2f18d8e"
+            ]
+        ]
+    },
+    {
+        "id": "51dee404a19a2e4e",
+        "type": "serial out",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "serial": "3e9e928f83a167a6",
+        "x": 1310,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "8615930e6e2f504a",
+        "type": "delay",
+        "z": "2b7da7338a6aec73",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1300,
+        "y": 240,
+        "wires": [
+            [
+                "58f9c8a49470d720"
+            ]
+        ]
+    },
+    {
+        "id": "dd3bfc94a3b546b2",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"enabled\":false}",
+        "payloadType": "json",
+        "x": 740,
+        "y": 80,
+        "wires": [
+            [
+                "409e2e39b242d842"
+            ]
+        ]
+    },
+    {
+        "id": "5fe297bf2d2a1ce1",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 511,
+        "y": 258,
+        "wires": []
+    },
+    {
+        "id": "ac012bd81bfada99",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "Train Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY0\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 118,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "89bb33a0814a70eb",
+        "type": "cronplus",
+        "z": "cb190de4053ecd58",
+        "name": "Train Schedule Cage 4",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 58 0 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 52 2 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule3",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 34 5 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule4",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 31 6 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule5",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 27 7 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule6",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 07 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule7",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 51 8 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule8",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 15 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule9",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 45 9 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule10",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 28 10 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule11",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 04 11 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule12",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 12 12 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule13",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 53 12 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule14",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 44 14 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule15",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 21 15 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule16",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 21 16 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule17",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 10 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule18",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 44 17 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule19",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 57 18 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule20",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 20 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule21",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 49 19 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule22",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 26 20 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule23",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 17 21 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule24",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 05 22 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule25",
+                "topic": "Train",
+                "payloadType": "json",
+                "payload": "\"PLAY0\\n\"",
+                "expressionType": "cron",
+                "expression": "0 22 23 ? * MON-SUN *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 240,
+        "y": 440,
+        "wires": [
+            [
+                "3f759f2efb48d284",
+                "9a2d08c85a99d81d"
+            ]
+        ]
+    },
+    {
+        "id": "239dce8c949b04ad",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED OFF\\n\"",
+        "payloadType": "json",
+        "x": 212,
+        "y": 76,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "d9356f1cd8bb31cb",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LED ON\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 38,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "409e2e39b242d842",
+        "type": "serial control",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 910,
+        "y": 80,
+        "wires": [
+            [
+                "3fee4cdf32ce8a81"
+            ]
+        ]
+    },
+    {
+        "id": "3fee4cdf32ce8a81",
+        "type": "debug",
+        "z": "cb190de4053ecd58",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1080,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "136013248d9389cb",
+        "type": "debug",
+        "z": "cb190de4053ecd58",
+        "name": "debug 25",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 521,
+        "y": 198,
+        "wires": []
+    },
+    {
+        "id": "a0a4a6e026b079f9",
+        "type": "serial in",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 710,
+        "y": 140,
+        "wires": [
+            [
+                "cbfa407eea0b2f8c"
+            ]
+        ]
+    },
+    {
+        "id": "cbfa407eea0b2f8c",
+        "type": "debug",
+        "z": "cb190de4053ecd58",
+        "name": "debug 26",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 900,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "3c74d53bc7b1ded7",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "Siren Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY1\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 158,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "e45bcb5df4ea89b5",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "Jack Hammer Sound",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"PLAY2\\n\"",
+        "payloadType": "json",
+        "x": 241,
+        "y": 198,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "ae5f0dad8a54bf6c",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLUP\\n\"",
+        "payloadType": "json",
+        "x": 201,
+        "y": 238,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "fc1db2aa71ad8a4d",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"VOLDOWN\\n\"",
+        "payloadType": "json",
+        "x": 221,
+        "y": 278,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "cd32d9f7940c0092",
+        "type": "cronplus",
+        "z": "cb190de4053ecd58",
+        "name": "Siren Schedule Cage 4",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 30 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            },
+            {
+                "name": "schedule2",
+                "topic": "topic2",
+                "payloadType": "json",
+                "payload": "\"PLAY1\\n\"",
+                "expressionType": "cron",
+                "expression": "0 50 19 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 250,
+        "y": 640,
+        "wires": [
+            [
+                "846cc5222b5093a3"
+            ]
+        ]
+    },
+    {
+        "id": "f4a387dba8e63228",
+        "type": "cronplus",
+        "z": "cb190de4053ecd58",
+        "name": "Jack Hammer Schedule Cage 4",
+        "outputField": "payload",
+        "timeZone": "",
+        "storeName": "",
+        "commandResponseMsgOutput": "output1",
+        "defaultLocation": "",
+        "defaultLocationType": "default",
+        "outputs": 1,
+        "options": [
+            {
+                "name": "schedule1",
+                "topic": "topic1",
+                "payloadType": "json",
+                "payload": "\"PLAY2\\n\"",
+                "expressionType": "cron",
+                "expression": "0 00 3 ? * MON-SUN  *",
+                "location": "",
+                "offset": "0",
+                "solarType": "all",
+                "solarEvents": "sunrise,sunset"
+            }
+        ],
+        "x": 790,
+        "y": 280,
+        "wires": [
+            [
+                "dbae66ed20d5b6d5"
+            ]
+        ]
+    },
+    {
+        "id": "7ae1ecb3aca13797",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTOFF\\n\"",
+        "payloadType": "json",
+        "x": 221,
+        "y": 358,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "d76803c3bd515743",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTON\\n\"",
+        "payloadType": "json",
+        "x": 210,
+        "y": 320,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "eae617a0ab630d18",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 440,
+        "wires": [
+            [
+                "8aae01bf1a0f0f8a",
+                "9a2d08c85a99d81d"
+            ]
+        ]
+    },
+    {
+        "id": "3f759f2efb48d284",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 440,
+        "wires": [
+            [
+                "eae617a0ab630d18",
+                "9a2d08c85a99d81d"
+            ]
+        ]
+    },
+    {
+        "id": "9ff3dbd2393deb5c",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTLR",
+        "func": "msg.payload = \"LIGHTLR\\n\";\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 440,
+        "wires": [
+            [
+                "9a2d08c85a99d81d",
+                "444c6b64c08288d1"
+            ]
+        ]
+    },
+    {
+        "id": "8aae01bf1a0f0f8a",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "42",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 740,
+        "y": 440,
+        "wires": [
+            [
+                "295e1d1f312f7cc4"
+            ]
+        ]
+    },
+    {
+        "id": "afdfd94fe024e6da",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1270,
+        "y": 440,
+        "wires": [
+            [
+                "9a2d08c85a99d81d"
+            ]
+        ]
+    },
+    {
+        "id": "b3d8476af4c9d1bb",
+        "type": "inject",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "\"LIGHTLR\\n\"",
+        "payloadType": "json",
+        "x": 211,
+        "y": 398,
+        "wires": [
+            [
+                "5fe297bf2d2a1ce1",
+                "136013248d9389cb"
+            ]
+        ]
+    },
+    {
+        "id": "9a2d08c85a99d81d",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 610,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "295e1d1f312f7cc4",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "Train Sound ",
+        "func": "msg. payload = \"PLAY0\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 400,
+        "wires": [
+            [
+                "3bab7c56b0f632a3",
+                "9ff3dbd2393deb5c"
+            ]
+        ]
+    },
+    {
+        "id": "3bab7c56b0f632a3",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 990,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "8fc9bc6a16b24f0c",
+        "type": "timegate",
+        "z": "cb190de4053ecd58",
+        "name": "Siren Schedule 4",
+        "targetDateTime": "targetDateTime",
+        "targetDateTimeType": "msg",
+        "lat": 0,
+        "lon": 0,
+        "time_1": "19:30-19:30",
+        "day_1": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_1": "",
+        "month_1": "",
+        "time_2": "19:50-19:50",
+        "day_2": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "week_2": "",
+        "month_2": "",
+        "time_3": "",
+        "day_3": "",
+        "week_3": "",
+        "month_3": "",
+        "time_4": "",
+        "day_4": "",
+        "week_4": "",
+        "month_4": "",
+        "time_5": "",
+        "day_5": "",
+        "week_5": "",
+        "month_5": "",
+        "x": 350,
+        "y": 740,
+        "wires": [
+            [
+                "0ab00111f61301b1"
+            ],
+            [
+                "85f26c122354e8cf"
+            ]
+        ]
+    },
+    {
+        "id": "846cc5222b5093a3",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 170,
+        "y": 740,
+        "wires": [
+            [
+                "8fc9bc6a16b24f0c"
+            ]
+        ]
+    },
+    {
+        "id": "444c6b64c08288d1",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "21",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1100,
+        "y": 440,
+        "wires": [
+            [
+                "afdfd94fe024e6da"
+            ]
+        ]
+    },
+    {
+        "id": "6133172f0f7e1cb1",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 830,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "d6e9689a67db3beb",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 580,
+        "wires": [
+            [
+                "6133172f0f7e1cb1",
+                "d081e510dbb99188"
+            ]
+        ]
+    },
+    {
+        "id": "d081e510dbb99188",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 580,
+        "wires": [
+            [
+                "0b521f106b3ac0c8",
+                "6133172f0f7e1cb1"
+            ]
+        ]
+    },
+    {
+        "id": "0b521f106b3ac0c8",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 920,
+        "y": 580,
+        "wires": [
+            [
+                "a97839b3830324f3"
+            ]
+        ]
+    },
+    {
+        "id": "a97839b3830324f3",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 580,
+        "wires": [
+            [
+                "6133172f0f7e1cb1",
+                "0ab00111f61301b1"
+            ]
+        ]
+    },
+    {
+        "id": "0ab00111f61301b1",
+        "type": "counter-loop",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "15",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 610,
+        "y": 660,
+        "wires": [
+            [
+                "6133172f0f7e1cb1"
+            ],
+            [
+                "d6e9689a67db3beb"
+            ]
+        ]
+    },
+    {
+        "id": "df39ea8113762ba0",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 890,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "16470d540df3cd89",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "Siren Hammer Sound",
+        "func": "msg. payload = \"PLAY1\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 740,
+        "wires": [
+            [
+                "df39ea8113762ba0",
+                "a3efac8650f1a5ff"
+            ]
+        ]
+    },
+    {
+        "id": "a3efac8650f1a5ff",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTON",
+        "func": "msg.payload = \"LIGHTON\\n\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 740,
+        "wires": [
+            [
+                "e0f8a74299c49f8e",
+                "df39ea8113762ba0"
+            ]
+        ]
+    },
+    {
+        "id": "e0f8a74299c49f8e",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "85",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 980,
+        "y": 740,
+        "wires": [
+            [
+                "279750884e24fe5b"
+            ]
+        ]
+    },
+    {
+        "id": "279750884e24fe5b",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "LIGHTOFF",
+        "func": "msg.payload = \"LIGHTOFF\\n\";\nmsg.counter = 1\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 740,
+        "wires": [
+            [
+                "df39ea8113762ba0",
+                "85f26c122354e8cf"
+            ]
+        ]
+    },
+    {
+        "id": "85f26c122354e8cf",
+        "type": "counter-loop",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "8",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 660,
+        "y": 820,
+        "wires": [
+            [
+                "df39ea8113762ba0"
+            ],
+            [
+                "16470d540df3cd89"
+            ]
+        ]
+    },
+    {
+        "id": "dbae66ed20d5b6d5",
+        "type": "function",
+        "z": "cb190de4053ecd58",
+        "name": "Jack Hammer Sound",
+        "func": "msg. payload = \"PLAY2\\n\"\nmsg.counter = 1\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 240,
+        "wires": [
+            [
+                "43bc9d930b274208",
+                "9c36367fe35c2b19"
+            ]
+        ]
+    },
+    {
+        "id": "34152a5bfe61812e",
+        "type": "counter-loop",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "counter": "1",
+        "counterType": "msg",
+        "reset": false,
+        "resetValue": "value-null",
+        "initial": 0,
+        "initialType": "num",
+        "operator": "lt",
+        "termination": "60",
+        "terminationType": "num",
+        "increment": 1,
+        "incrementType": "num",
+        "x": 1170,
+        "y": 320,
+        "wires": [
+            [
+                "43bc9d930b274208"
+            ],
+            [
+                "dbae66ed20d5b6d5"
+            ]
+        ]
+    },
+    {
+        "id": "43bc9d930b274208",
+        "type": "serial out",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "serial": "81c3366b47957850",
+        "x": 1370,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "9c36367fe35c2b19",
+        "type": "delay",
+        "z": "cb190de4053ecd58",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "55",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1360,
+        "y": 240,
+        "wires": [
+            [
+                "34152a5bfe61812e"
+            ]
+        ]
+    }
+]
