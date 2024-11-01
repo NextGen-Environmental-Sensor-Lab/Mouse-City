@@ -1,5 +1,5 @@
 // light and sound sketch for City Mouse experiment
-// Gurleen Hothi, Ricardo Toledo-Crow, ASRC CUNY, Sep 2024
+// Gurleen Hothi, Ricardo Toledo-Crow, Mark Bellamy, ASRC CUNY, Sep 2024
 // Flashes led strip and plays sound
 
 
