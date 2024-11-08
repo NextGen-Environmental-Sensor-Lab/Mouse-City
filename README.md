@@ -50,7 +50,7 @@ Node-Red is a low-level coding program that visualizes code. We use it to automa
 Getting started with Node-Red. All information on setting up Node-Red can be found [here](https://nodered.org/docs/getting-started/) for new users.
 
 
-<img src="Images/NodeRed Image 1.PNG" width="900" height = "450"> 
+<img src="Images/NodeRed Image 1.png" width="900" height = "450"> 
 
 * Node Function:
     * The orange box shows all of the known commands our code will accept. These nodes inject/input the stated commands into the wemos d1 mini.
