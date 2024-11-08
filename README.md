@@ -18,10 +18,12 @@ Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Bo
 
 
 ## Arduino IDE
-To use the code in the [Arduino](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/tree/main/Arduino/CityMouseLight_Sound) folder the user needs to install the Adafruit Neopixel Repository and the esp8266 (by ESP8266 Community) board manager.
+To use the code in the [Arduino](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/tree/main/Arduino/CityMouseLight_Sound) folder the user needs to install the Adafruit Neopixel library and the esp8266 (by ESP8266 Community) board manager.
 Once installed the code can be used. 
 
-Note: Our code is a modified version of the Adafruit Neopixel strandtest example. This can be seen where we use the theaterchase function to rotate the lights around the LED strip.
+Note: The board used from this board manager is the "WEMOS D1 MINI ESP32".
+
+Also Note: Our code is a modified version of the Adafruit Neopixel strandtest example. This can be seen where we use the theaterchase function to rotate the lights around the LED strip.
 
 Code Contents: Our code contains multiple functions to control audio, speaker volume, and LED strip function. Note: Our code only recognizes certain commands. Unknown commands will be ignored.
 * Audio: Sound() Where each input calls the selected audio track to play. There are 4 pins available, but only 3 are in use here.
