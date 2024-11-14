@@ -1,7 +1,5 @@
 
-## Mouse City  
-
-<img src="Images/City Mouse Image 1.jpg" width="500" height = "400">
+## Mouse City Build of Materials
 
 | Product Name | Product | Purchase Link|
 |----------|--------|:-----------------------:|
