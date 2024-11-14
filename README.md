@@ -3,7 +3,7 @@ Welcome to the NextGen Environmental Sensor Lab's Mouse City. We aim to simulate
 
 For any questions and concerns contact us at rtoledocrow@gc.cuny.edu. We'll try to answer as soon as possible!
 
-Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Board (from Adafruit). Additional contents of the circuit can be found in the [Parts List](#parts-list) below above. The BOM of the full circuit is located above ([BOM.md](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/blob/main/BOM.md)).
+Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Board (from Adafruit). Additional contents of the circuit can be found in the [Parts List](#parts-list) below above. The BOM of the full circuit is located above at [BOM.md](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/blob/main/BOM.md).
 
 <img src="Images/Mouse City Fritzing.PNG" width="300" height = "600"> 
 
