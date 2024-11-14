@@ -66,6 +66,8 @@ Getting started with Node-Red. All information on setting up Node-Red can be fou
 
 * Node Function:
     * The orange box shows all of the known commands our code will accept. These nodes inject/input the stated commands into the wemos d1 mini.
+    
+        Note: The commands for Sounds (Train, Siren, and Jack Hammer) are "PLAY0\n", "PLAY1\n", and "PLAY2\n" respectively. 
     * The purple box outputs anything the serial port receives by use of the debug and serial port nodes. It also allows the user to disconnect from the serial port by injecting a "false".
     * The blue box contains the schedule for one of our audio tracks and lights. At a specified time set in the blue inject node (cronplus) the lights and sound play. The lights and sound are looped by the msg. node to play x amount of times that the user chooses.
     * The yellow box makes a local text file logging the inputs to the system through the use of a function we designed.
