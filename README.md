@@ -28,7 +28,9 @@ Note: The board used from this board manager is the "WEMOS D1 MINI ESP32".
 
 Also Note: Our code is a modified version of the Adafruit Neopixel strandtest example. This can be seen where we use the theaterchase function to rotate the lights around the LED strip.
 
-Code Contents: Our code contains multiple functions to control audio, speaker volume, and LED strip function. Note: Our code only recognizes certain commands. Unknown commands will be ignored.
+Code Contents: Our code contains multiple functions to control audio, speaker volume, and LED strip function. 
+
+Note: Our code only recognizes certain commands. Unknown commands will be ignored.
 * Audio: Sound() Where each input calls the selected audio track to play. There are 4 pins available, but only 3 are in use here.
 * Volume: Volume() Where each input increases of decreases the volume.
 * LED Strip: theaterChase() Where each input decides the pattern of the LED Strip for about 20 seconds.
