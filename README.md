@@ -11,6 +11,9 @@ Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Bo
 ### Arduino
 * Required Libraries and Boards
 * Code Contents
+### Audio Tracks
+* Audio File Type
+* Converter
 ### Mouse City Circuit 
 * Parts List
 ### Node-Red
@@ -29,6 +32,11 @@ Code Contents: Our code contains multiple functions to control audio, speaker vo
 * Audio: Sound() Where each input calls the selected audio track to play. There are 4 pins available, but only 3 are in use here.
 * Volume: Volume() Where each input increases of decreases the volume.
 * LED Strip: theaterChase() Where each input decides the pattern of the LED Strip for about 20 seconds.
+
+## Audio Tracks 
+To use the Sound() function the Arduino Soundboard needs at least one audio track. These tracks must be wav files. If the files you intend to use are different you can convert them. The converter we used is [cloud convert](https://cloudconvert.com/mp3-to-wav). 
+
+Note: The soundboard only accepts 8 or 16 bit wav files. (The higher the bit the better the audio sounds). Also mono files compared to stero files are smaller in size allowing for less storage consumption. 
 
 ## Mouse City Circuit 
 ### Parts List
