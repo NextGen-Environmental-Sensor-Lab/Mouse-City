@@ -1,4 +1,4 @@
-## Mouse City Build of Materials
+## Mouse City Complete Build of Materials
 
 | Product Name | Product | Purchase Link|
 |----------|--------|:-----------------------:|
