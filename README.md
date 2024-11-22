@@ -47,17 +47,21 @@ Note: The soundboard only accepts 8 or 16 bit wav files. (The higher the bit the
 ### Parts List
 <img src="Images/City Mouse Image 1.jpg" width="500" height = "400">
 
-| Part | Part Image | Link |
-|----------------|---------------------------------------|:--------------------------:|
+| Part Name | Part Image | Purchase Link|
+|----------|--------|:-----------------------:|
 |1000 µF Capacitor| <img src="Images/Core Circuit Images/Capacitor.png" width="150" height = "200"> |[Digikey](https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-1CM102B/8603353?utm_adgroup=&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Medium%20ROAS%20Categories&utm_term=&utm_content=&utm_id=go_cmp-20223376311_adg-_ad-__dev-c_ext-_prd-8603353_sig-Cj0KCQjwjNS3BhChARIsAOxBM6rq-EZxlEMLGUnWqKobcya32Tr_djYuXm6wenygM1xgtaHWTUAy6HAaAiYCEALw_wcB&gad_source=1&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6rq-EZxlEMLGUnWqKobcya32Tr_djYuXm6wenygM1xgtaHWTUAy6HAaAiYCEALw_wcB)
 |470 Ohm Resistor| <img src="Images/Core Circuit Images/Resistor.png" width="170" height = "200"> |[Digikey](https://www.digikey.com/en/products/detail/koa-speer-electronics,-inc./CF1%2F4C471J/13537235?utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Zombie%20SKUs&utm_term=&utm_content=General&utm_id=go_cmp-17815035045_adg-_ad-__dev-c_ext-_prd-13537235_sig-Cj0KCQjwjNS3BhChARIsAOxBM6pdZWOkhexXrhcUmCtDRSBonp6of6M5_js4P4ElzA45IlZfCEqIjtQaAlmEEALw_wcB&gad_source=1&gclid=Cj0KCQjwjNS3BhChARIsAOxBM6pdZWOkhexXrhcUmCtDRSBonp6of6M5_js4P4ElzA45IlZfCEqIjtQaAlmEEALw_wcB)
 |Adafruit Audio FX Sound Board| <img src="Images/Core Circuit Images/Soundboard.png" width="250" height = "150"> |[Adafruit](https://www.adafruit.com/product/2217)
 |Breadboard| <img src="Images/Core Circuit Images/Breadboard.png" width="100" height = "200"> |[Amazon](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=asc_df_B01EV6LJ7G/?tag=hyprod-20&linkCode=df0&hvadid=693308325598&hvpos=&hvnetw=g&hvrand=9404664182806824334&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004080&hvtargid=pla-368202573973&psc=1&mcid=73a4e46a53ed3eadb095584a7921608a)
+|ELEGOO PCB Board Kit| <img src="Images/Full Circuit/PCB Board Kit.png" width="175" height = "175"> |[Amazon](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F)
 |Jumper Wire Kit| <img src="Images/Core Circuit Images/WireKit.png" width="200" height = "150"> |[Amazon](https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/ref=sr_1_3?crid=B0S5ZQ43UCTK&dib=eyJ2IjoiMSJ9._--XVj7sIVPW5Oud9uWtGRLcItNAzP_oKgb5XnBnAESH-41hm1aXYP-z0LyQecbUB4PwCpd9hgam1p8XLSusb5WMATWn7WuKW8AMz0pzQ6uocTDJ6-z_yKWPa05zAXrPjlVQPw7SMG_stOkZY_B-my7qhvSwHimdq8Sg0STi3PvUP3RNw_jrSzReKq_a-bX7uVKZJ3SH7_5gO0ybMWKxvZ63AAHAKkg5hV3EBn4bnXx--lpvCitoiXIQm5Qiv4Ip0wajuGiETqRom6K2GbzhiYVLdXyJ1Mkv-b4P5QslpbE.52sJjcqXgAcbXkMpsyKdnvN-_KVsl35BuasWdHUbS9g&dib_tag=se&keywords=jumper+wire+kit&qid=1728051755&s=industrial&sprefix=jumper+%2Cindustrial%2C56&sr=1-3)
 |LED Strip (White)| <img src="Images/Core Circuit Images/LEDStrip.png" width="250" height = "200"> |[BTF Lighting](https://www.btf-lighting.com/products/1-sk6812-rgbw-4-in-1-pixels-individual-addressable-led-strip-dc5v?_pos=1&_sid=09f9497e4&_ss=r&variant=45843368247522)
 |Speaker - 40mm Diameter - 4 Ohm 5 Watt| <img src="Images/Core Circuit Images/Speaker.png" width="200" height = "200"> |[Adafruit](https://www.adafruit.com/product/3968)
+|Terminal Blocks| <img src="Images/Full Circuit/Terminal Block.png" width="175" height = "175"> |[Digikey](https://www.digikey.com/en/products/detail/qualtek/311007-01/183390)
 |WeMos D1 Mini (Microcontroller)| <img src="Images/Core Circuit Images/Wemos.png" width="175" height = "175"> |[Amazon](https://www.amazon.com/dp/B0BR9GBNZH?ref=fed_asin_title)
 
+### Important Note!!
+Running the LED Strip and Voltage Supply through the bread board will cause a short circuit. To avoid this we suggest a spliced connection between the power supply, LED strip, and terminal block.
 
 ## Node-Red
 Node-Red is a low-level coding program that visualizes code. We use it to automate the scheduling of our lights and audio. This was done through the use of different blocks of code Node-Red calls 'nodes'. The collection of these nodes are known as 'flows'.
