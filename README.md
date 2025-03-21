@@ -8,7 +8,8 @@ Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Bo
 
 
 
-<img src="Images/Mouse City Fritzing.PNG" width="300" height = "600"> 
+<img src="Images/Mouse City Fritzing.PNG" width="205" height = "410"> 
+<img src="Images/Mouse City Diagram.PNG" width="510" height = "260"> 
 
 ## Content
 ### Arduino
@@ -81,4 +82,3 @@ Getting started with Node-Red. All information on setting up Node-Red can be fou
     * The green box is a special scheduler (timegate) that allows two different action to take place based on the time they receive a preset command.
 
 Note: All NodeRed flows can be accessed [here](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/tree/main/Node%20Red%20Flows).
-
