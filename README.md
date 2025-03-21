@@ -9,7 +9,7 @@ Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Bo
 
 
 <img src="Images/Mouse City Fritzing.PNG" width="205" height = "410"> 
-<img src="Images/Mouse City Diagram.PNG" width="510" height = "260"> 
+<img src="Images/Mouse City Diagram.png" width="510" height = "260"> 
 
 ## Content
 ### Arduino
