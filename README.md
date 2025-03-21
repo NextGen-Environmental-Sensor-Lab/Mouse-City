@@ -5,10 +5,7 @@ For any questions and concerns please file an issue through the issue tab. We'll
 
 Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Board (from Adafruit). Additional contents of the circuit can be found in the [BOM](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/blob/main/BOM.md)  above. The BOM of the full circuit is located there as well.
 
-
-
 <img src="Images/Mouse City Diagram.png" width="1000" height = "400"> 
-
 
 ## Content
 ### Arduino
@@ -46,7 +43,7 @@ Note: The soundboard only accepts 8 or 16 bit wav files. (The higher the bit the
 ## Mouse City Circuit 
 ### Parts List
 <img src="Images/City Mouse Image 1.jpg" width="450" height = "390">
-<img src="Images/Mouse City Fritzing.PNG" width="250" height = "500"> 
+<img src="Images/Mouse City Horizontal.png" width="500" height = "200"> 
 
 | Part Name | Part Image | Purchase Link|
 |----------|--------|:-----------------------:|
