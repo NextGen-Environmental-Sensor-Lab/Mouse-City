@@ -43,7 +43,7 @@ Note: The soundboard only accepts 8 or 16 bit wav files. (The higher the bit the
 ## Mouse City Circuit 
 ### Parts List
 <img src="Images/City Mouse Image 1.jpg" width="450" height = "390">
-<img src="Images/Mouse City Horizontal.png" width="500" height = "200"> 
+<img src="Images/Mouse City Horizontal.png" width="740" height = "300"> 
 
 | Part Name | Part Image | Purchase Link|
 |----------|--------|:-----------------------:|
