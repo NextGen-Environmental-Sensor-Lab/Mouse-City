@@ -5,7 +5,7 @@ For any questions and concerns please file an issue through the issue tab. We'll
 
 Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Board (from Adafruit). Additional contents of the circuit can be found in the [BOM](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/blob/main/BOM.md)  above. The BOM of the full circuit is located there as well.
 
-<img src="Images/Mouse City Block Diagram.PNG" width="1001" height = "400"> 
+<img src="Images/Mouse City Block Diagram.PNG" width="850" height = "400"> 
 
 ## Content
 ### Arduino
@@ -30,7 +30,7 @@ Also Note: Our code is a modified version of the Adafruit Neopixel strandtest ex
 
 Code Contents: Our code contains multiple functions to control audio, speaker volume, and LED strip function. 
 
-Note: Our code only recognizes certain commands. Unknown commands will be ignored.
+Note: Our code only recognizes predetermined commands. Unknown commands will be ignored.
 * Audio: Sound() Where each input calls the selected audio track to play. There are 4 pins available, but only 3 are in use here.
 * Volume: Volume() Where each input increases of decreases the volume.
 * LED Strip: theaterChase() Where each input decides the pattern of the LED Strip for about 20 seconds.
@@ -70,12 +70,12 @@ Getting started with Node-Red. All information on setting up Node-Red can be fou
 <img src="Images/NodeRed Image 1.png" width="900" height = "450"> 
 
 * Node Function:
-    * The orange box shows all of the known commands our code will accept. These nodes inject/input the stated commands into the wemos d1 mini.
+    * The orange box displays all of the known commands our code will accept. These nodes inject/input the stated commands into the WeMos D1 Mini.
     
         Note: The commands for Sounds (Train, Siren, and Jack Hammer) are "PLAY0\n", "PLAY1\n", and "PLAY2\n" respectively. 
-    * The purple box outputs anything the serial port receives by use of the debug and serial port nodes. It also allows the user to disconnect from the serial port by injecting a "false".
+    * The purple box outputs information the serial port receives by use of the debug and serial port nodes. It also allows the user to disconnect from the serial port by injecting a "false".
     * The blue box contains the schedule for one of our audio tracks and lights. At a specified time set in the blue inject node (cronplus) the lights and sound play. The lights and sound are looped by the msg. node to play x amount of times that the user chooses.
-    * The yellow box makes a local text file logging the inputs to the system through the use of a function we designed.
-    * The green box is a special scheduler (timegate) that allows two different action to take place based on the time they receive a preset command.
+    * The yellow box makes a local text file logging the inputs to the system.
+    * The green box is a special scheduler (timegate) that allows two different action to take place based at the time they received.
 
 Note: All NodeRed flows can be accessed [here](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/tree/main/Node%20Red%20Flows).
