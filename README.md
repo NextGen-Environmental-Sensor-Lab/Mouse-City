@@ -5,7 +5,7 @@ For any questions and concerns please file an issue through the issue tab. We'll
 
 Mouse City's core circuit components are a WeMos D1 Mini and a Audio FX Sound Board (from Adafruit). Additional contents of the circuit can be found in the [BOM](https://github.com/NextGen-Environmental-Sensor-Lab/Mouse-City/blob/main/BOM.md)  above. The BOM of the full circuit is located there as well.
 
-<img src="Images/Mouse City Block Diagram.PNG" width="850" height = "400"> 
+<img src="Images/Mouse City Connections.svg" width="850" height = "400"> 
 
 ## Content
 ### Arduino
